@@ -80,12 +80,6 @@ El sistema permite:
 
 ---
 
-## 📸 Vista del Sistema
-
-*(Agrega aquí capturas para mejorar la presentación)*
-
----
-
 ## 📌 Notas
 
 - 🌐 El sistema está pensado principalmente para uso público  
