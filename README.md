@@ -7,6 +7,13 @@
 
 ---
 
+## 🌐 Acceso al Sistema
+
+👉 **Sitio principal:**  
+🔗 https://libreriaaurea.infinityfreeapp.com/
+
+---
+
 ## 👨‍💻 Información del Proyecto
 
 | Dato        | Información        |
@@ -19,56 +26,47 @@
 
 ## 📖 Descripción
 
-**Librería Áurea** es una aplicación web desarrollada como proyecto final.  
-Su objetivo es gestionar y consultar un catálogo de libros y autores de forma eficiente.
+**Librería Áurea** es una aplicación web desarrollada como proyecto final, orientada a la gestión y consulta de un catálogo bibliográfico.
 
-El sistema ofrece:
+El sistema permite:
 
-- Exploración intuitiva del catálogo 📚  
-- Panel administrativo privado 🔐  
-- Gestión completa de la información 📊  
+- 📚 Explorar libros y autores  
+- 🔍 Realizar búsquedas en tiempo real  
+- 🎯 Filtrar y ordenar resultados  
+- 📩 Contactar mediante formulario  
 
 ---
 
 ## 🚀 Funcionalidades
 
-### 🌐 Sitio Público
-- 🔍 Consulta de libros con filtros y ordenamiento  
-- 👨‍🏫 Consulta de autores  
-- ⚡ Buscador en tiempo real  
-- 📩 Formulario de contacto con validaciones  
-- 🌙 Modo claro / oscuro  
+### 🌐 Sitio Público (Principal)
+- Consulta de libros con filtros y ordenamiento  
+- Consulta de autores  
+- Buscador en tiempo real  
+- Formulario de contacto  
+- Interfaz moderna (modo claro/oscuro)  
 
 ---
 
-### 🔐 Panel de Administración
-- 🔑 Sistema de autenticación segura  
-- 📚 CRUD completo de libros y autores  
-- 📨 Gestión de mensajes de contacto  
-- 📥 Exportación de mensajes en CSV  
-- 📊 Dashboard con estadísticas  
-- 👤 Creación de administrador inicial  
+### 🔐 Funcionalidades Administrativas (Adicional)
+> Estas opciones no son necesarias para el uso normal del sistema
+
+- Sistema de autenticación  
+- Panel privado de administración  
+- CRUD de libros y autores  
+- Gestión de mensajes  
+- Exportación en CSV  
+- Dashboard con estadísticas  
 
 ---
 
-## ⚙️ Configuración Inicial
+## ⚙️ Acceso Administrativo (Opcional)
 
-### 1️⃣ Crear Administrador
+### Crear administrador
+👉 https://libreriaaurea.infinityfreeapp.com/setup_admin.php  
 
-👉 [Acceder al instalador](https://libreriaaurea.infinityfreeapp.com/setup_admin.php)
-
-Completa:
-- Usuario  
-- Contraseña  
-- Nombre  
-
-Luego haz clic en **Crear administrador**
-
----
-
-### 2️⃣ Iniciar Sesión
-
-👉 [Ir al login](https://libreriaaurea.infinityfreeapp.com/login.php)
+### Iniciar sesión
+👉 https://libreriaaurea.infinityfreeapp.com/login.php  
 
 ---
 
@@ -80,6 +78,22 @@ Luego haz clic en **Crear administrador**
 - PHP  
 - MySQL  
 
-```md
-![Home](link-imagen)
-![Dashboard](link-imagen)
+---
+
+## 📸 Vista del Sistema
+
+*(Agrega aquí capturas para mejorar la presentación)*
+
+---
+
+## 📌 Notas
+
+- 🌐 El sistema está pensado principalmente para uso público  
+- 🔐 El panel administrativo es complementario  
+- 🎓 Proyecto desarrollado con fines académicos  
+
+---
+
+## ⭐ Recomendación
+
+Si este proyecto te sirve como referencia, puedes darle una estrella ⭐
